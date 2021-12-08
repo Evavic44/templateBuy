@@ -86,7 +86,6 @@ header a:hover{
   background-position: center;
   background-size: cover;
   text-align:center;
-  color:#ffffdff;
   opacity: 50%;
 }
 
@@ -199,7 +198,6 @@ footer{
 
   #showcase h1{
     margin-top:40px;
-    color: blue;
   }
 
   #newsletter button, .quote button{
