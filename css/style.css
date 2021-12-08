@@ -36,11 +36,11 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#ff914d;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#e8491d 3px solid;
+  border-bottom: black 3px solid;
 }
 
 header a{
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:black;
   font-weight:bold;
 }
 
@@ -86,15 +86,13 @@ header a:hover{
   background-position: center;
   background-size: cover;
   text-align:center;
-  opacity: 50%;
 }
 
 #showcase h1{
   margin-top:100px;
   font-size:55px;
   opacity: 100%;
-  color:red;
-  background: #f4f4f4;
+  background: #ff914d;
   background-size: contain;
   margin-bottom:10px;
   padding: none;
