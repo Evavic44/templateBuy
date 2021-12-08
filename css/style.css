@@ -82,17 +82,23 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('../img/showcase.jpg') no-repeat;
+  background:url('../img/indexBanner.jpg') no-repeat;
   background-position: center;
   background-size: cover;
   text-align:center;
-  color:#ffffff;
+  color:#ffffdff;
+  opacity: 50%;
 }
 
 #showcase h1{
   margin-top:100px;
   font-size:55px;
+  opacity: 100%;
+  color:red;
+  background: #f4f4f4;
+  background-size: contain;
   margin-bottom:10px;
+  padding: none;
 }
 
 #showcase p{
