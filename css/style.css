@@ -22,11 +22,10 @@ ul{
 
 .button_1{
   height:38px;
-  background:#e8491d;
+  background:#ff914d;
   border:0;
-  padding-left: 20px;
-  padding-right:20px;
-  color:#ffffff;
+  padding: auto;
+  font-size: 20px;
 }
 
 .dark{
@@ -104,8 +103,8 @@ header a:hover{
 /* Newsletter */
 #newsletter{
   padding:15px;
-  color:#ffffff;
-  background:#35424a
+  color:#ff914d;
+  background:black
 }
 
 #newsletter h1{
@@ -118,9 +117,10 @@ header a:hover{
 }
 
 #newsletter input[type="email"]{
-  padding:4px;
-  height:25px;
+  padding:2px;
+  height:30px;
   width:250px;
+  font-size: 15px;
 }
 
 /* Boxes */
