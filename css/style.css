@@ -1,6 +1,6 @@
 * {
-  padding:0;
-  margin:0;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
@@ -10,9 +10,9 @@ body {
 
 /* Global */
 .container{
-  width:80%;
-  margin:auto;
-  overflow:hidden;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
 }
 
 ul{
@@ -117,42 +117,42 @@ header a:hover{
 }
 
 #newsletter input[type="email"]{
-  padding:2px;
-  height:30px;
-  width:250px;
+  padding: 2px;
+  height: 30px;
+  width: 250px;
   font-size: 15px;
 }
 
 /* Boxes */
-#boxes{
-  margin-top:20px;
+#boxes {
+  margin-top: 20px;
 }
 
 .container h1 {
   text-align: center;
 }
 
-#boxes .box{
-  float:left;
+#boxes .box {
+  float: left;
   text-align: center;
-  width:30%;
-  padding:10px;
+  width: 30%;
+  padding: 10px;
 }
 
-#boxes .box img{
-  width:90px;
+#boxes .box img {
+  width: 90px;
 }
 
 /* Sidebar */
 aside#sidebar{
-  float:right;
-  width:30%;
-  margin-top:10px;
+  float: right;
+  width: 30%;
+  margin-top: 10px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
-  width:90%;
-  padding:5px;
+  width: 90%;
+  padding: 5px;
 }
 
 /* Main-col */
@@ -171,10 +171,9 @@ ul#services li{
 }
 
 footer{
-  padding:20px;
-  margin-top:20px;
-  color:#ffffff;
-  background-color:#e8491d;
+  padding: 20px;
+  margin-top: 5px;
+  background-color: #ff914d;
   text-align: center;
 }
 
